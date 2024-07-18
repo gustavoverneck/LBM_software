@@ -1,2 +1,2 @@
 # LBM_software
-A LBM desktop application
+A Lattice Boltzmann Method desktop application.
